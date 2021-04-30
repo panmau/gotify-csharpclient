@@ -2,10 +2,10 @@
 
 name: Nuget Publish
 
-on:
-  release:
-    types:
-      - published
+on:  
+  push:
+    tags:
+      - '*'
 
 jobs:
   nuget-publish:
