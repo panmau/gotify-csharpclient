@@ -4,6 +4,8 @@
         <TargetFramework>netstandard2.0</TargetFramework>
         <LangVersion>latest</LangVersion>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
+        <Authors>Maurice Panchaud</Authors>
+        <Description>A simple C# client for interaction with a Gotify Server</Description>
     </PropertyGroup>
 
     <ItemGroup>
