@@ -1,4 +1,5 @@
 # gotify-csharpclient
+![Nuget](https://img.shields.io/nuget/v/Gotify.Client)
 ![package workflow](https://github.com/panmau/gotify-csharpclient/actions/workflows/nuget-publish.yml/badge.svg)
 
 This is a simple C# client to use when interacting with a [Gotify Server](https://github.com/gotify/server).
