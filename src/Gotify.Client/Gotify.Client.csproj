@@ -6,6 +6,7 @@
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
         <Authors>Maurice Panchaud</Authors>
         <Description>A simple C# client for interaction with a Gotify Server</Description>
+        <Nullable>enable</Nullable>
     </PropertyGroup>
 
     <ItemGroup>
