@@ -1,6 +1,8 @@
 # gotify-csharpclient
 This is a simple C# client to use when interacting with a [Gotify Server](https://github.com/gotify/server).
+
 The client is generated using [NSwag](https://github.com/RicoSuter/NSwag) from the [Gotify Server API Documentation](https://gotify.net/api-docs)
+
 ![package workflow](https://github.com/panmau/gotify-csharpclient/actions/workflows/nuget-publish.yml/badge.svg)
 
 ## Installation
