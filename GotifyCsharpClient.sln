@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gotify.Generator", "Gotify.Generator\Gotify.Generator.csproj", "{37927F00-2EE1-4495-81E4-0C16A376CACC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gotify.Generator", "src\Gotify.Generator\Gotify.Generator.csproj", "{37927F00-2EE1-4495-81E4-0C16A376CACC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gotify.Client", "Gotify.Client\Gotify.Client.csproj", "{0F154DF0-C6D6-4348-A274-DD46B6D2CF19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gotify.Client", "src\Gotify.Client\Gotify.Client.csproj", "{0F154DF0-C6D6-4348-A274-DD46B6D2CF19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
