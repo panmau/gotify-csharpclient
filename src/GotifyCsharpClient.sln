@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gotify.Generator", "Gotify.Generator\Gotify.Generator.csproj", "{37927F00-2EE1-4495-81E4-0C16A376CACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gotify.Client", "Gotify.Client\Gotify.Client.csproj", "{0F154DF0-C6D6-4348-A274-DD46B6D2CF19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37927F00-2EE1-4495-81E4-0C16A376CACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37927F00-2EE1-4495-81E4-0C16A376CACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37927F00-2EE1-4495-81E4-0C16A376CACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37927F00-2EE1-4495-81E4-0C16A376CACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F154DF0-C6D6-4348-A274-DD46B6D2CF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F154DF0-C6D6-4348-A274-DD46B6D2CF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F154DF0-C6D6-4348-A274-DD46B6D2CF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F154DF0-C6D6-4348-A274-DD46B6D2CF19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
